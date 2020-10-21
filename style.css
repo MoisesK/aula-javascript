@@ -1,0 +1,38 @@
+.corpo{
+    margin: 10px;
+    background-image: url(https://wallpapercave.com/wp/wp2742440.jpg);
+}
+
+.post1,.post2{
+    font-size: medium;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px;
+    border: black dotted 2px  ;
+    background-color: white;
+}
+
+.post1-2{
+    text-align: justify;
+}
+
+.Titulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+    -webkit-text-stroke: black 1px;
+
+}
+
+.fotoz{
+    border: 10px 10px;
+    margin: auto;
+}
+
+.div1{
+    background: purple
+}
+
+.botao{
+    border: 10px 10px;
+    margin: 10px;
+}
